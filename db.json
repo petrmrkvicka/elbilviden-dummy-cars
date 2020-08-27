@@ -1,0 +1,65 @@
+[
+    {
+        "brand": "Audi",
+        "model": "e-tron",
+        "range": 400,
+        "battery": 90,
+        "garanti": "160.000 km / 8 år",
+        "zero100": 5.7,
+        "weight": 2490,
+        "image": "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef0240a4a2a5ac200c-550wi"
+    },
+    {
+        "brand": "Nissan",
+        "model": "Leaf 40",
+        "range": 270,
+        "battery": 36,
+        "garanti": "160.000 km / 8 år",
+        "zero100": 7.9,
+        "weight": 1516,
+        "image": "https://www.motorsiden.dk/Biltest%202018/Nissan%20LEAF%20Tekna%2040%20kWh/LEAF-40-kWh.jpg"
+    },
+    {
+        "brand": "Nissan",
+        "model": "Leaf 60",
+        "range": 385,
+        "battery": 62,
+        "garanti": "160.000 km / 8 år",
+        "zero100": 7.3,
+        "weight": 1995,
+        "image": "https://ev-database.org/img/auto/Nissan_Leaf_2018/Nissan_Leaf_2018-01@2x.jpg"
+    },
+    {
+        "brand": "Kia",
+        "model": "Soul EC 60",
+        "range": 455,
+        "battery": 64,
+        "garanti": "150.000 km / 7 år",
+        "zero100": 11.2,
+        "weight": 1490,
+        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2020-kia-soul-ev-drive-104-1554317525.jpg"
+    },
+    {
+        "brand": "Kia",
+        "model": "Niro EV 40",
+        "range": 289,
+        "battery": 39.2
+    },
+    {
+        "brand": "Kia",
+        "model": "Niro EV 60",
+        "range": 455,
+        "battery": 64,
+        "image": "https://ecarsrange.com/wp-content/uploads/kia-niro-ev-long-range-8.jpg"
+    },
+    {
+        "brand": "Tesla",
+        "model": "Model 3 - LR",
+        "range": 560,
+        "battery": 75,
+        "garanti": "8 år",
+        "zero100": 4.8,
+        "weight": 1847,
+        "image": "https://ev-database.org/img/auto/Tesla_Model_3/Tesla_Model_3-01@2x.jpg"
+    }
+]
