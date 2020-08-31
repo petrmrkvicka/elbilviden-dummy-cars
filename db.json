@@ -7,7 +7,14 @@
         "garanti": "160.000 km / 8 år",
         "zero100": 5.7,
         "weight": 2490,
-        "image": "https://bioage.typepad.com/.a/6a00d8341c4fbe53ef0240a4a2a5ac200c-550wi"
+        "image": ["https://bioage.typepad.com/.a/6a00d8341c4fbe53ef0240a4a2a5ac200c-550wi", "https://car-images.bauersecure.com/pagefiles/80668/etron_interior.jpg"],
+        "extra": {
+            "Stik til hjemmeladning": "Type 2",
+            "Hurtigladestik til DC-ladning": "Combo CCS",
+            "Opladning AC (sommer)": "11 kW/16A 8,5 timer\n22 kW/32A ca. 4-5 timer",
+            "Hurtigladning DC (sommer)": "150 kW 0-80%",
+            "Træk på krog": "1.800 kg"
+        }
     },
     {
         "brand": "Nissan",
@@ -17,7 +24,7 @@
         "garanti": "160.000 km / 8 år",
         "zero100": 7.9,
         "weight": 1516,
-        "image": "https://www.motorsiden.dk/Biltest%202018/Nissan%20LEAF%20Tekna%2040%20kWh/LEAF-40-kWh.jpg"
+        "image": ["https://www.motorsiden.dk/Biltest%202018/Nissan%20LEAF%20Tekna%2040%20kWh/LEAF-40-kWh.jpg"]
     },
     {
         "brand": "Nissan",
@@ -27,7 +34,7 @@
         "garanti": "160.000 km / 8 år",
         "zero100": 7.3,
         "weight": 1995,
-        "image": "https://ev-database.org/img/auto/Nissan_Leaf_2018/Nissan_Leaf_2018-01@2x.jpg"
+        "image": ["https://ev-database.org/img/auto/Nissan_Leaf_2018/Nissan_Leaf_2018-01@2x.jpg"]
     },
     {
         "brand": "Kia",
@@ -37,7 +44,7 @@
         "garanti": "150.000 km / 7 år",
         "zero100": 11.2,
         "weight": 1490,
-        "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2020-kia-soul-ev-drive-104-1554317525.jpg"
+        "image": ["https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/2020-kia-soul-ev-drive-104-1554317525.jpg"]
     },
     {
         "brand": "Kia",
@@ -50,7 +57,7 @@
         "model": "Niro EV 60",
         "range": 455,
         "battery": 64,
-        "image": "https://ecarsrange.com/wp-content/uploads/kia-niro-ev-long-range-8.jpg"
+        "image": ["https://ecarsrange.com/wp-content/uploads/kia-niro-ev-long-range-8.jpg"]
     },
     {
         "brand": "Tesla",
@@ -60,6 +67,6 @@
         "garanti": "8 år",
         "zero100": 4.8,
         "weight": 1847,
-        "image": "https://ev-database.org/img/auto/Tesla_Model_3/Tesla_Model_3-01@2x.jpg"
+        "image": ["https://ev-database.org/img/auto/Tesla_Model_3/Tesla_Model_3-01@2x.jpg"]
     }
 ]}
